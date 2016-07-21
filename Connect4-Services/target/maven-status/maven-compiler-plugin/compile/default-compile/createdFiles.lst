@@ -1,0 +1,6 @@
+com\connect4\Player.class
+com\connect4\service\GameService.class
+com\connect4\Connect4Player.class
+com\connect4\Connect4GameImpl.class
+com\connect4\Connect4Game.class
+com\connect4\service\GameServiceImpl.class

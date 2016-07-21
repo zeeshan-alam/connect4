@@ -1,0 +1,4 @@
+cucmber\demo\my\cucumber\AppTest.class
+connect4\Connect4GameTest.class
+connect4\Connect4GameSteps.class
+connect4\RunCukesTest.class
